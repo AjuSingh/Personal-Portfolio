@@ -10,6 +10,15 @@ export const ProjectList = [
     demo_url: "https://trello-clone-zeta-sepia.vercel.app/",
   },
   {
+    img: "/contest-cl.png",
+    title: "Coding Contest CLI",
+    description:
+      "Built Node.js CLI for Coding contest – list contest based of host time range.",
+    tech_stack: ["NodeJS","NPM","Typescript"],
+    github_url: "https://github.com/AjuSingh/Contest-Cli",
+    demo_url: "https://www.npmjs.com/package/contest-cli",
+  },
+  {
     img: "/cryptoprices.png",
     title: "Cryptify",
     description:
@@ -26,7 +35,7 @@ export const ProjectList = [
     tech_stack: ["NodeJS"],
     github_url: "https://github.com/AjuSingh/File_organizer",
     demo_url: "https://github.com/AjuSingh/File_organizer",
-  },
+  }
   // {
   //   img: "/pokedex-responsive.png",
   //   title: "Pokedex",
@@ -93,6 +102,10 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
     name: "Docker",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg",
+    name: "NPM",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg",

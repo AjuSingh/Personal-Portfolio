@@ -44,7 +44,7 @@ function Hero() {
                   cursor={true}
                   sequence={[
                     500,
-                    'Software Developer',
+                    'Software Engineer',
                     1000,
                     'A problem solver.',
                     1000,
